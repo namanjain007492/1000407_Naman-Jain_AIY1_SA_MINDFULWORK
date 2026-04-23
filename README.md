@@ -1,5 +1,9 @@
 # 🌿 Mindful Work App – Stress-Free Offices
 
+### 🎨 Prototype Link
+
+👉 https://slot-marker-84228936.figma.site
+ 
 ## 📌 Overview
 
 The *Mindful Work App* is a user-centered design project developed using the Design Thinking process. It aims to help individuals manage stress effectively during work through quick, personalized, and interactive digital solutions.
@@ -79,20 +83,6 @@ This project includes research, problem definition, ideation, prototyping, and t
   * Positive: simple, calming, useful
   * Negative: needs more customization and features
 * Improved design based on feedback
-
----
-
-## 🚀 Live Prototype
-
-### 🌐 Web App (Deployed)
-
-👉 https://your-netlify-link.netlify.app
-
----
-
-### 🎨 Figma Prototype
-
-👉 https://your-figma-link
 
 ---
 
