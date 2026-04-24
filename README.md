@@ -167,7 +167,9 @@ This project demonstrates a complete Design Thinking cycle and delivers a functi
 ## 👨‍🎓 Credits
 
 **Student Name:** Naman Jain
+
 **CRS Facilitator:** Syed Ali Beema
+
 **School Name:** Jain Vidyalaya IB World School
 
 ---
