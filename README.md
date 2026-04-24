@@ -93,14 +93,15 @@ Docs/
  ├── Empathize/
  ├── Define/
  ├── Ideate/
+ ├── Testing/
  ├── Mindful_Work_App_Presentation.pdf
 
 Wireframes/
- ├── App Screens (PNG)
-
+ ├── App Screens (Video)
+ ├── Prototype(Link)
 Data/
  ├── Survey Responses
- ├── Research Files
+ ├── Google Sheet Link
 ```
 
 ---
